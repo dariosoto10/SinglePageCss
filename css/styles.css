@@ -1,0 +1,120 @@
+
+@font-face {
+	font-family: 'Josefin Sans';
+	src: url('../fonts/JosefinSans-Regular.ttf');
+}
+
+
+*{
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.navbar{
+	font-size: 20px;
+	margin-bottom: 0px;
+	color: #000;
+}
+
+hr {
+	color: black;
+}
+
+h3 {
+	font-weight: 300;
+}
+
+.titulo {
+	font-weight: 300;
+	background: rgba(255,0,0,.1);
+}
+
+.banner{
+  	background: url('../img/banner.jpg')  #b90a0a;
+  	background-repeat: no-repeat;
+  	background-position: center;
+  	max-height: 600px;
+  	padding: 150px 150px;
+}
+
+.customh{
+	padding: 8px 140px;
+}
+
+.ticket{
+	padding: 10px 100px;
+	margin-top: 10px;
+	font-size: 20px;
+}
+
+.primario{
+	margin-top: 100px;
+}
+
+.ticket1{
+	padding: 10px 140px;
+	margin-top: 0px;
+	font-size: 20px;
+	margin-bottom: 300px;
+}
+.generar{
+	padding: 5px 76px;
+	font-size: 18px;
+}
+
+.btn-recaudador {
+	padding: 10px 100px;
+}
+
+.container-fluid{
+	background: url('../img/black-Linen.png');
+	background-repeat: repeat;
+}
+
+body {
+	background: url('../img/strange_bullseyes.png');
+	background-repeat: repeat;
+}
+
+
+.row{
+	background: url('../img/strange_bullseyes.png');
+	background-repeat: repeat;
+}
+
+.custom {
+	margin-bottom: 10px;
+	padding: 12px 70px;
+}
+
+.custom1{
+	margin-bottom: 10px;
+	padding: 8px 10px
+}
+
+.cabinas {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	border-radius: 10px;
+	padding: 12px 50px;
+}
+
+.usuarios {
+	border-radius: 10px;
+	padding-top: 200px;
+	padding-bottom: 125px;
+	padding: 12px 50px;
+	margin-top: 50px;
+	margin-left: 0px;
+}
+
+.reporte {
+	border-radius: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.estado {
+	border-radius: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
